@@ -4,7 +4,7 @@
 -- Project: Chicago Violent Crimes Analysis
 -- Purpose: SQL analysis supporting Power BI dashboard and R visualizations
 -- Tools: SQL Server, R, Power BI
--- Dataset: Chicago crime recordeds filtered to violent crime categories
+-- Dataset: Chicago crime records filtered to violent crime categories
 -- Types of crime included (violent crime):
 	-- Assault
 	-- Battery
