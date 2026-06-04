@@ -1,17 +1,18 @@
 # Chicago Violent Crimes Analysis
 
 ## Overview
+
 This project analyzes violent crime incidents in Chicago to identify crime hotspots, emerging risk areas, and temporal crime trends
 
 
 ## Tools
+
 •	SQL Server
-
 •	R
-
 •	Power BI
 
 ## Analytical Techniques Used
+
 •	Data aggregation and transformation
 •	Window functions and ranking analysis
 •	Time-series trend analysis
@@ -24,6 +25,7 @@ This project analyzes violent crime incidents in Chicago to identify crime hotsp
 •	Interactive dashboard design
 
 ## Key Findings
+
 •	Area 25 accounted for the highest violent crime volume
 •	Violent crime peaked during summer months
 •	Several low-volume areas exhibited above-average growth rates
