@@ -4,6 +4,9 @@
 
 This project analyzes violent crime incidents in Chicago to identify crime hotspots, emerging risk areas, and temporal crime trends
 
+## Dashboard Preview
+
+![Dashboard](dashboard/chicago_crimes_dashboard.jpg)
 
 ## Tools
 
