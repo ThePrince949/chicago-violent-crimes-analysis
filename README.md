@@ -6,7 +6,9 @@ This project analyzes violent crime incidents in Chicago to identify crime hotsp
 
 ## Tools
 •	SQL Server
+
 •	R
+
 •	Power BI
 
 ## Analytical Techniques Used
